@@ -1,22 +1,17 @@
-# Core Programming Concepts
+# Notes & Learnings
 
-This repository focuses on building strong programming fundamentals
-and clear problem-solving skills.
+This folder contains written notes from my learning process while
+building core programming concepts.
 
-I created this repo to strengthen core concepts that are often skipped,
-such as logic building, clean code, and understanding how things work
-under the hood.
+These notes focus on:
+- Common mistakes I made and how I fixed them
+- Conceptual confusions and clarifications
+- Small insights that improved my problem-solving approach
 
-## What this repository contains
-- Core programming concepts with simple examples
-- Logical problem-solving using Python
-- Notes on mistakes, edge cases, and learnings
+## How these notes are used
+Before writing or revisiting code, I refer to these notes to avoid
+repeating the same mistakes and to improve clarity in logic.
 
-## Why this matters
-Strong fundamentals make learning any language or framework easier.
-This repository reflects consistent learning and improvement.
-
-## Current focus
-- Variables, conditions, loops, and functions
-- Problem-solving approach
-- Writing readable and structured code
+## Philosophy
+Understanding why something works is more important than
+memorizing syntax. These notes document that understanding.
